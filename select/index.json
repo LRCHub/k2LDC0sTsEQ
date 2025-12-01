@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "スカイクラッドの観測者",
+  "base_artist": "いとうかなこ",
+  "createdAt": "2025-12-01T08:31:31.435441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者 (symphonic ver.)",
+      "artist": "ITO KANAKO",
+      "has_synced": true,
+      "path": "select/01_スカイクラッドの観測者_(symphonic_ver.)_ITO_KANAKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/02_スカイクラッドの観測者_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者",
+      "artist": "ITO KANAKO",
+      "has_synced": false,
+      "path": "select/03_スカイクラッドの観測者_ITO_KANAKO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/04_スカイクラッドの観測者_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者 Short Ver.",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/05_スカイクラッドの観測者_Short_Ver._いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者 Short Ver.いとうかなこ",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/06_スカイクラッドの観測者_Short_Ver.いとうかなこ_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/07_スカイクラッドの観測者_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者",
+      "artist": "いとうかなこ",
+      "has_synced": false,
+      "path": "select/08_スカイクラッドの観測者_いとうかなこ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者 syphonic ver.",
+      "artist": "Ito Kanako",
+      "has_synced": false,
+      "path": "select/09_スカイクラッドの観測者_syphonic_ver._Ito_Kanako.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者 - Remix",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/10_スカイクラッドの観測者_-_Remix_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/11_スカイクラッドの観測者_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者 - Short Ver.",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/12_スカイクラッドの観測者_-_Short_Ver._いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者",
+      "artist": "ゆうゆ",
+      "has_synced": false,
+      "path": "select/13_スカイクラッドの観測者_ゆうゆ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者",
+      "artist": "Ninomiya, Asuka",
+      "has_synced": true,
+      "path": "select/14_スカイクラッドの観測者_Ninomiya,_Asuka.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者 [short ver.]",
+      "artist": "威闘華鳴乎 (いとう かなこ)",
+      "has_synced": true,
+      "path": "select/15_スカイクラッドの観測者_[short_ver.]_威闘華鳴乎_(いとう_かなこ).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "スカイクラッドの観測者",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/16_スカイクラッドの観測者_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スカイクラッドの観測者 -Remix-",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_01_スカイクラッドの観測者_-Remix-_いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "スカイクラッドの観測者",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_02_スカイクラッドの観測者_いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "スカイクラッドの観測者 symphonic ver.",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_03_スカイクラッドの観測者_symphonic_ver._いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "スカイクラッドの観測者 Short Ver.",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_04_スカイクラッドの観測者_Short_Ver._いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "スカイクラッドの観測者 8BIT Mix",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_05_スカイクラッドの観測者_8BIT_Mix_いとう_かなこ.txt"
+    }
+  ]
+}
